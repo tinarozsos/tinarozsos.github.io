@@ -7,7 +7,7 @@ output:
     preserve_yaml: true
 ---
 
-<img src="assets/img/profile.jpg" width="250" class="center"/>
+<img src="assets/img/profile.jpg" width="250" class="left"/>
 
 ------------------------------------------------------------------------
 
