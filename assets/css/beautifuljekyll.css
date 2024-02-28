@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, 'Open Sans', Arial, sans-serif;
+  font-family: Garamond, 'Times New Roman', 'Helvetica', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -38,10 +38,10 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
 h2 {
-  font-size: 1.875rem;
+  font-size: 1.75rem;
 }
 h3 {
   font-size: 1.5rem;

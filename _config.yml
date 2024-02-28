@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Homepage of Tina Rozsos
+title: Tina Rozsos
 
 # Your name to show in the footer
 author: Tina Rozsos
@@ -126,15 +126,15 @@ keywords: "tina,rozsos,tinbergen,ucr,economics,education,data,research"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#14B7CC"
+navbar-col: "#0F99AB"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#14B7CC"
+navbar-border-col: "#0F99AB"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#14B7CC"
+link-col: "#0F99AB"
 hover-col: "#000000"
-footer-col: "#14B7CC"
-footer-text-col: "#777777"
+footer-col: "#0F99AB"
+footer-text-col: "#FFFFFF"
 footer-link-col: "#404040"
 footer-hover-col: "#041D85"
 
