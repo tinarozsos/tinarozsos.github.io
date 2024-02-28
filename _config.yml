@@ -126,14 +126,14 @@ keywords: "tina,rozsos,tinbergen,ucr,economics,education,data,research"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#14b7cc"
+navbar-col: "#14B7CC"
 navbar-text-col: "#FFFFFF"
-navbar-border-col: "#14b7cc"
+navbar-border-col: "#14B7CC"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#14b7cc"
+link-col: "#14B7CC"
 hover-col: "#000000"
-footer-col: "#14b7cc"
+footer-col: "#14B7CC"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#041D85"
