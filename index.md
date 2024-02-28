@@ -1,11 +1,15 @@
 ---
 layout: home
-title: "Homepage of Tina Rozsos"
+title: "Tina Rozsos"
 output:
   md_document:
     variant: gfm
     preserve_yaml: true
 ---
+
+<img src="assets/img/profile.jpg" width="400" class="center"/>
+
+------------------------------------------------------------------------
 
 # About me
 
