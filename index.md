@@ -12,7 +12,9 @@ output:
 # About me
 
 I am an applied microeconomist with an interest in the economics of
-(higher) education. I am currently working on my MPhil at Tinbergen
+(higher) education. 
+
+I am currently working on my MPhil at Tinbergen
 Institute in the Netherlands; my thesis supervisors are Bas van der
 Klaauw and Hessel Oosterbeek. I plan to start my PhD in Fall 2024.
 
