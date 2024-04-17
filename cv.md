@@ -7,8 +7,8 @@ output:
     preserve_yaml: true
 ---
 
-<div style="text-align: center;">
-<object width="800" height="1000" type="application/pdf" data="/assets/CV_Tina_Rozsos.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<div align="center">
+<object width="1000" height="1200" type="application/pdf" data="/assets/CV_Tina_Rozsos.pdf?#zoom=100&scrollbar=0&toolbar=1&navpanes=0">
     <p>PDF cannot be displayed.</p>
 </object>
 </div>
