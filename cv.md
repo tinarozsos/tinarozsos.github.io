@@ -7,4 +7,4 @@ output:
     preserve_yaml: true
 ---
 
-*To be added.*
+<object data="assets/CV_Tina_Rozsos.pdf" width="1000" height="1000" type='application/pdf'></object>
