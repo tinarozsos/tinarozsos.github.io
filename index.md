@@ -7,7 +7,7 @@ output:
     preserve_yaml: true
 ---
 
-<img style="float: right;" src="assets/img/profile.jpg" width="320"/>
+<img style="float: right; padding: 20px" src="assets/img/profile.jpg" width="320"/>
 
 # About me
 

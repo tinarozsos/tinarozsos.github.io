@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: Garamond, 'Times New Roman', 'Helvetica', serif;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -78,8 +78,8 @@ hr.small {
 :target:before {
   content: "";
   display: block;
-  height: 2rem; /* navbar height */
-  margin: -2rem 0 0;
+  height: 0.5rem; /* navbar height */
+  margin: -0.5em 0 0;
 }
 
 .hideme {
