@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Homepage of Tina Rozsos"
+title: "Tina Rozsos"
 output:
   md_document:
     variant: gfm
