@@ -9,7 +9,7 @@ output:
 
 # Work in progress
 
-- MPhil thesis on school switching in secondary schools, supervised by Prof. Dr. Bas van der Klaauw (VU) and Prof. Dr. Hessel Oosterbeek (UvA).
+-  Rozsos, T. (2024). Why do students switch schools? Admission lotteries and other drivers of student mobility (tentative). *MPhil thesis supervisored by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).*
 
 # Unpublished
 
