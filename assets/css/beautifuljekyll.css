@@ -150,8 +150,8 @@ img {
 
 .navbar-custom .navbar-brand {
   line-height: 1.5;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
   font-size: 1.5rem;
 }
 
@@ -217,8 +217,8 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom {
-    padding-top: 0.25rem;
-    padding-bottom: 0.25rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
   }
 
   .navbar-custom .navbar-brand-logo {
@@ -384,10 +384,10 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 1rem;
-  font-size: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.75rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
@@ -421,7 +421,7 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 0.625rem 0 0;
+  margin: 0.25rem 0 0;
 }
 footer .footer-custom-content {
   text-align: center;
@@ -431,7 +431,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 2rem 0;
+    padding: 1rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
