@@ -14,7 +14,7 @@ output:
 
 - UCR Data Center Apprenticeship program (2024--): [description, materials, and results](https://ucrdatacenter.github.io/apprenticeship/)
 - Data encounters in UCR courses (2022--): [materials](https://ucrdatacenter.github.io/courses)
-- Academic Internship supervision (2023--)
+- Academic Internship supervision (2022--)
 
 # Master's level
 
