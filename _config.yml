@@ -23,9 +23,6 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   CV: "cv"
-  Other projects:
-    - Generative art: "art"
-    - GALA conference: "GALA"
 
 ################
 # --- Logo --- #
