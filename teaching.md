@@ -10,6 +10,7 @@ output:
 # Bachelor's level
 
 - Teaching Assistant VU Amsterdam:
+  + Choices, Inequality, and Welfare (2024)
   + Economic Principles in a Global Era (2024)
 
 - UCR Data Center Apprenticeship program (2024--): [description, materials, and results](https://ucrdatacenter.github.io/apprenticeship/)
