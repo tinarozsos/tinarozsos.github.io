@@ -1,0 +1,12 @@
+---
+title: "News, updates, etc."
+listing:
+  contents: news
+  type: grid
+  sort: "date"
+  feed: true
+  fields: [image, title, subtitle, date]
+  sort-ui: false
+  filter-ui: false
+  # image-placeholder: "assets/img/profile.jpg"
+---
