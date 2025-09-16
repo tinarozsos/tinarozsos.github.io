@@ -1,0 +1,13 @@
+---
+title: "CV"
+page-layout: full
+---
+
+<div class="pdf-container">
+  <object
+    type="application/pdf"
+    data="assets/CV_Tina_Rozsos.pdf?#zoom=100&scrollbar=0&toolbar=1&navpanes=0"
+  >
+    <p>PDF cannot be displayed. :(</p>
+  </object>
+</div>

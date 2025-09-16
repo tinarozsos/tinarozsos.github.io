@@ -1,0 +1,6 @@
+---
+title: "R projects"
+---
+
+I use R a lot.
+Some examples will follow.

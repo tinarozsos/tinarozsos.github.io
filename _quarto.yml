@@ -1,0 +1,84 @@
+project:
+  type: website
+  resources:
+  - assets/CV_Tina_Rozsos.pdf
+
+execute:
+  freeze: auto
+
+website:
+  title: "Tina Rozsos"
+  site-url: https://tinarozsos.github.io
+  description: Personal website of Tina Rozsos
+  repo-url: https://github.com/tinarozsos/tinarozsos.github.io
+  image: assets/img/pride93.png
+  navbar:
+    title: "Tina Rozsos"
+    background: light
+    foreground: dark
+    search: true
+    right:
+      - text: ABOUT
+        icon: person-bounding-box
+        href: about.qmd
+      - text: NEWS
+        icon: lightning-fill
+        href: news.qmd
+      - text: RESEARCH
+        icon: feather
+        href: research.qmd
+      - text: TEACHING
+        icon: broadcast
+        href: teaching.qmd
+      - text: R PROJECTS
+        icon: code
+        href: r.qmd
+      - text: CV
+        icon: fingerprint
+        href: cv.qmd
+      - icon: star-half
+  page-footer:
+    background: light
+    foreground: dark
+    left: "Copyright 2025, Tina Rozsos"
+    center:
+      - icon: github
+        href: https://github.com/tinarozsos
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tina-rozsos/
+      # - icon: bluesky
+      #   href: https://bsky.app/profile/tinarozsos.bsky.social
+      - icon: envelope-heart
+        href: mailto:t.d.rozsos@vu.nl
+  favicon: assets/img/header/pride93.png
+  # google-analytics:
+  #   tracking-id: ""
+  #   anonymize-ip: true
+
+format:
+  html:
+    theme:
+      light: assets/style/tr_light.scss
+    #   dark: assets/theme.scss
+    # css: assets/styles.css
+    # code-block-border-left: true
+    # highlight-style:
+    #   light: assets/light.theme
+    #   dark: assets/dark.theme
+    smooth-scroll: true
+    link-external-newwindow: true
+
+editor: source
+
+# keywords: "tina,rozsos,tinbergen,ucr,economics,education,data,research"
+# navbar-col: "#0F99AB"
+# navbar-text-col: "#FFFFFF"
+# navbar-border-col: "#0F99AB"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#0F99AB"
+# hover-col: "#000000"
+# footer-col: "#0F99AB"
+# footer-text-col: "#FFFFFF"
+# footer-link-col: "#404040"
+# footer-hover-col: "#041D85"

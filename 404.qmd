@@ -1,0 +1,12 @@
+---
+title: 404 - Page not found
+permalink: /404.html
+site: true
+---
+
+<div class="text-center" style="padding: 2rem;">
+  <h2 style="pointer-events: none; text-decoration: none; color: inherit;">
+    Whoops, this page doesn't exist. Move along.
+  </h2>
+  <p><a href="/">Go back home</a></p>
+</div>
