@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Tina Rozsos</title>
+<link>https://tinarozsos.github.io/news.html</link>
+<atom:link href="https://tinarozsos.github.io/news.xml" rel="self" type="application/rss+xml"/>
+<description>Personal website of Tina Rozsos</description>
+<image>
+<url>https://tinarozsos.github.io/assets/img/pride93.png</url>
+<title>Tina Rozsos</title>
+<link>https://tinarozsos.github.io/news.html</link>
+</image>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Tue, 16 Sep 2025 21:01:48 GMT</lastBuildDate>
+<item>
+  <title>test</title>
+  <link>https://tinarozsos.github.io/news/test.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <guid>https://tinarozsos.github.io/news/test.html</guid>
+  <pubDate>Tue, 16 Sep 2025 21:01:48 GMT</pubDate>
+</item>
+</channel>
+</rss>
