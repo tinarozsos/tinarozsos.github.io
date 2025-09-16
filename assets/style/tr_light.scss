@@ -1,0 +1,263 @@
+/*-- scss:defaults --*/
+
+// use litera as the base
+// https://github.com/thomaspark/bootswatch/tree/v5/dist/litera
+$theme: "litera" !default;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&display=swap');
+
+$font-primary: 'Quicksand', sans-serif;
+$font-secondary: 'Inter', sans-serif;
+
+// warmer grays (hue 240)
+$white:    #fff !default;
+$gray-100: #F8F8FA !default;
+$gray-200: #E9E9EF !default;
+$gray-300: #DCDCE6 !default;
+$gray-400: #CECEDA !default;
+$gray-500: #ADADBD !default;
+$gray-600: #868696 !default;
+$gray-700: #494957 !default;
+$gray-800: #343440 !default;
+$gray-900: #212129 !default;
+$black:    #000 !default;
+
+$blue:    #4582ec !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$pink:    #e83e8c !default;
+$red:     #d9534f !default;
+$orange:  #fd7e14 !default;
+$yellow:  #f0ad4e !default;
+$green:   #02b875 !default;
+$teal:    #20c997 !default;
+$cyan:    #2c9d94 !default;
+$light-blue: #d1f3f3ff !default;
+
+
+$primary:       $cyan !default;
+$secondary:     $gray-500 !default;
+$success:       $teal !default;
+$info:          $blue !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$light:         $light-blue !default;
+$dark:          $gray-900 !default;
+
+body {
+    font-family: $font-secondary;
+    line-height: 1.8;
+}
+
+h2, h3, h4, h5, h6, .subtitle {
+    font-family: $font-primary;
+    text-align: center;
+}
+
+navbar-title, menu-text, .nav-footer {
+    font-family: $font-primary;
+}
+
+h1 {
+    font-family: $font-primary;
+    text-align: center;
+    color: $primary;
+}
+
+// font sizes;
+$font-size-base:   1.125rem; //!default; // Assumes the browser default, typically `16px`
+$h1-font-size:     $font-size-base * 1.75 !default;
+$h2-font-size:     $font-size-base * 1.6 !default;
+$h3-font-size:     $font-size-base * 1.5 !default;
+$h4-font-size:     $font-size-base * 1.25 !default;
+$h5-font-size:     $font-size-base !default;
+$h6-font-size:     $font-size-base !default;
+$footer-font-size:  $font-size-base * 0.875 !default;
+
+.title {
+    font-size: $h1-font-size * 1.25;
+    margin-bottom: 1.25rem;
+    font-weight: 700;
+}
+
+footer .favicon {
+    width: 60px;
+    height: 60px;
+  }
+
+footer .bi:hover {
+    color: $primary;
+}
+
+// colour tweaks to theme
+$body-bg: $white;
+$body-color: $dark;
+$code-bg: $light;
+$code-color: $gray-700;
+
+#fn1 > p > code {
+  font-size: 0.8rem;
+}
+
+#fn2 > p > code {
+  font-size: 0.8rem;
+}
+
+#fn3 > p > code {
+  font-size: 0.8rem;
+}
+
+#fn4 > p > code {
+  font-size: 0.8rem;
+}
+
+#fn5 > p > code {
+  font-size: 0.8rem;
+}
+
+#fn6 > p > code {
+  font-size: 0.8rem;
+}
+
+code {
+  font-feature-settings: 'dlig' 0, 'liga' 0, 'calt' 1, 'zero' 1, 'ss02' 0;
+}
+
+code span.co {
+  font-family: "Fira Mono", monospace;
+}
+
+h1 code {
+  font-size: $h1-font-size;
+}
+
+h2 code {
+  font-size: $h2-font-size;
+}
+
+h3 code {
+  font-size: $h3-font-size;
+}
+
+h4 code {
+  font-size: $h4-font-size;
+}
+
+h5 code {
+  font-size: $h5-font-size;
+}
+
+h6 code {
+  font-size: $h6-font-size;
+}
+
+// callouts
+$callout-color-note: $info;
+$callout-color-tip: $success;
+$callout-color-caution: $warning;
+$callout-color-warning: $danger;
+$callout-color-important: $pink;
+
+/*-- scss:rules --*/
+
+// color classes
+.primary {
+  color: $primary;
+}
+
+.second-color {
+  color: $pink;
+}
+
+.third-color {
+  color: $info;
+}
+
+// code
+pre.sourceCode {
+  border-radius: 0;
+  border-left-color: $gray-300;
+}
+
+// light vs dark modes
+.light-mode {
+  display: block;
+}
+.dark-mode {
+  display: none;
+}
+
+// links
+a {
+  color: $body-color;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  //text-underline-offset: .1rem;
+  //text-underline-position: under;
+}
+
+a:hover {
+  color: $primary;
+  text-decoration-color: $primary;
+}
+
+.toc-actions a {
+  text-decoration: none !important;
+  border-bottom: 0;
+}
+
+.toc-actions a:hover {
+  color: $primary;
+}
+
+div.tippy-content a:hover {
+  text-decoration-color: $primary;
+}
+
+// navbar
+.navbar-title {
+  font-size: $font-size-base * 1.75;
+}
+
+// hover on navbar
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: $primary;
+}
+.navbar-expand-lg .navbar-nav .nav-link.active {
+  color: $primary;
+}
+
+// icon-links
+.icon-link, div.quarto-about-jolla .about-link {
+    background-color: transparent;
+    color: $primary;
+    //border: 2px solid !important;
+    border: 2px solid;
+    border-color: $primary;
+    padding: 5px .4rem 5px .4rem !important;
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon-link:hover, div.quarto-about-jolla .about-link:hover{
+    background-color: $primary;
+    color: $body-bg;
+    border-color: $primary;
+    text-decoration: none;
+}
+
+.pdf-container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+.pdf-container object {
+    width: 100%;
+    height: 60vh;
+    display: block;
+}

@@ -4,7 +4,7 @@ about:
   template: solana
   image: assets/img/profile.jpg
   image-alt: "Profile picture of Tina"
-  image-width: "100%"
+  image-width: "320px"
   links:
     - icon: github
       text: GitHub
@@ -12,7 +12,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tina-rozsos/
-    - icon: bluesky
+    - icon: chat-text
       text: Bluesky
       href: https://bsky.app/profile/tinarozsos.bsky.social
     - icon: envelope-heart

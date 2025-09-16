@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+  - assets/CV_Tina_Rozsos.pdf
 
 execute:
   freeze: auto
@@ -12,8 +14,8 @@ website:
   image: assets/img/pride93.png
   navbar:
     title: "Tina Rozsos"
-    background: primary
-    foreground: light
+    background: light
+    foreground: dark
     search: true
     right:
       - text: ABOUT
@@ -35,28 +37,28 @@ website:
         icon: fingerprint
         href: cv.qmd
       - icon: star-half
-    page-footer:
-      background: primary
-      foreground: light
-      left: "Copyright 2025, Tina Rozsos"
-      center:
-        - icon: github
-          href: https://github.com/tinarozsos
-        - icon: linkedin
-          href: https://www.linkedin.com/in/tina-rozsos/
-        - icon: bluesky
-          href: https://bsky.app/profile/tinarozsos.bsky.social
-        - icon: envelope-heart
-          href: mailto:t.d.rozsos@vu.nl
-  # favicon: assets/img/favicon.png
+  page-footer:
+    background: light
+    foreground: dark
+    left: "Copyright 2025, Tina Rozsos"
+    center:
+      - icon: github
+        href: https://github.com/tinarozsos
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tina-rozsos/
+      # - icon: bluesky
+      #   href: https://bsky.app/profile/tinarozsos.bsky.social
+      - icon: envelope-heart
+        href: mailto:t.d.rozsos@vu.nl
+  favicon: assets/img/header/pride93.png
   # google-analytics:
   #   tracking-id: ""
   #   anonymize-ip: true
 
 format:
   html:
-    # theme:
-    #   light: assets/theme.scss
+    theme:
+      light: assets/style/tr_light.scss
     #   dark: assets/theme.scss
     # css: assets/styles.css
     # code-block-border-left: true
