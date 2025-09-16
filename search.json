@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Bachelor’s level\n\nTeaching Assistant VU Amsterdam:\n\nChoices, Inequality, and Welfare (2024)\nEconomic Principles in a Global Era (2024)\n\nUCR Data Center Apprenticeship program (2024–): description, materials, and results\nData encounters in UCR courses (2022–): materials\nAcademic Internship supervision (2022–)\n\n\n\nMaster’s level\n\nResearch Master level Statistics (Tinbergen Institute; Teaching Assistant)"
-  },
-  {
-    "objectID": "r.html",
-    "href": "r.html",
-    "title": "R projects",
-    "section": "",
-    "text": "I use R a lot. Some examples will follow soon."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
     "text": "PDF cannot be displayed. :("
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "I am an applied microeconomist with an interest in the economics of (higher) education.\nI am currently a PhD student at the Vrije Universiteit Amsterdam in the Netherlands; my supervisors are Bas van der Klaauw and Hessel Oosterbeek. I completed the Economics Research Master of Tinbergen Institute, and received my Bachelor’s degree from University College Roosevelt with a major in Economics, Data Science, and Statistics.\nI am a Graduate Fellow for the University College Roosevelt Data Center and the Data Manager for CORE Econ."
   },
   {
     "objectID": "index.html",
@@ -35,6 +14,27 @@
     "text": "who I am\n\n\n\n\n\n\n\n\n\n\n\nnews and updates\n\n\n\n\n\n\n\n\n\n\n\nacademic research\n\n\n\n\n\n\n\n\n\n\n\nteaching and supervision\n\n\n\n\n\n\n\n\n\n\n\nall sorts of R projects\n\n\n\n\n\n\n\n\n\n\n\nfull CV"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Unpublished\n\nRozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).\nRozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. Bachelor’s thesis supervised by Dr. Alexei Karas (UCR)."
+  },
+  {
+    "objectID": "r.html",
+    "href": "r.html",
+    "title": "R projects",
+    "section": "",
+    "text": "I use R a lot. Some examples will follow soon."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am an applied microeconomist with an interest in the economics of (higher) education.\nI am currently a PhD student at the Vrije Universiteit Amsterdam in the Netherlands; my supervisors are Bas van der Klaauw and Hessel Oosterbeek. I completed the Economics Research Master of Tinbergen Institute, and received my Bachelor’s degree from University College Roosevelt with a major in Economics, Data Science, and Statistics.\nI am a Graduate Fellow for the University College Roosevelt Data Center and the Data Manager for CORE Econ."
+  },
+  {
     "objectID": "news.html",
     "href": "news.html",
     "title": "News, updates, etc.",
@@ -42,10 +42,10 @@
     "text": "test\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Unpublished\n\nRozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).\nRozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. Bachelor’s thesis supervised by Dr. Alexei Karas (UCR)."
+    "text": "Bachelor’s level\n\nTeaching Assistant VU Amsterdam:\n\nChoices, Inequality, and Welfare (2024)\nEconomic Principles in a Global Era (2024)\n\nUCR Data Center Apprenticeship program (2024–): description, materials, and results\nData encounters in UCR courses (2022–): materials\nAcademic Internship supervision (2022–)\n\n\n\nMaster’s level\n\nResearch Master level Statistics (Tinbergen Institute; Teaching Assistant)"
   }
 ]
