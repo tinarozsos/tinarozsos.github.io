@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "PDF cannot be displayed. :("
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tina Rozsos",
-    "section": "",
-    "text": "who I am\n\n\n\n\n\n\n\n\n\n\n\nnews and updates\n\n\n\n\n\n\n\n\n\n\n\nacademic research\n\n\n\n\n\n\n\n\n\n\n\nteaching and supervision\n\n\n\n\n\n\n\n\n\n\n\nall sorts of R projects\n\n\n\n\n\n\n\n\n\n\n\nfull CV"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Work in progress\n\n\n\n\n\n\nCautionThe Timing of Academic Specialization: Impacts on Student Outcomes\n\n\n\n\n\nJoint work with Alexei Karas\nIn many educational systems, including most of Europe, students apply to college by choosing a specific degree program, and have little control over the composition of their curriculum beyond this choice. In most US colleges — especially in Liberal Arts and Sciences (LAS) programs that focus on interdisciplinary education — students do not have to commit to a discipline at enrollment. They can explore their interests by taking courses in diverse fields, and can change the direction of their studies multiple times without having to transfer to a different program and risk losing study credits. While this exploration stage may lead to better match quality between students and their chosen fields of study, a less coherent and focused curriculum may reduce the alignment of academic records and future educational or occupational aspirations. Understanding this trade-off in how the timing of academic specialization affects academic and labor market outcomes can be valuable for optimizing undergraduate program structures.\n\n\n\n\n\n\n\n\n\nImportantSchool Choice, School Switching, and Optimal Assignment\n\n\n\n\n\nJoint work with Bas van der Klaauw and Hessel Oosterbeek\nClose to 20% of secondary school students in Amsterdam – and elsewhere – transfer to another secondary school at some point, even when initially placed in their top-ranked school. Such switches are costly for the students involved and disrupts the learning environment of their former and new classmates. This study investigates whether these transfers are the result of initial school choices that are “hard-to-rationalize”. Using data from the Amsterdam secondary school match linked to administrative registers, we estimate models of school demand and switching behavior. Our results show that switching is indeed predicted by “hard-to-rationalize” initial school choices, which we quantify by a low predicted probability of choosing the preferred school. Over 60% of switchers can be correctly identified at the admission stage. Simulations suggest that informing predicted switchers and encouraging them to adjust their initial preferences can reduce the average expected switching probability by up to 15%.\n\n\n\n\n\n\n\n\n\nTipBank Failure Prediction: Supplementing Standard Approaches with the Thematic Analysis of Reasons of Bank Closure\n\n\n\n\n\nJoint work with Alexei Karas\nWe combine textual and quantitative evidence to study bank closures in Russia. From Central Bank of Russia (CBR) press releases, we identify four failure themes: self-termination (S), transparency violations (T), mismanagement or fraud (M), and balance-sheet distress (CAEL). We validate this typology by showing that thematic spikes track major macroeconomic shocks, regulatory reforms, and changes in CBR leadership. Incorporating the validated typology into logistic regression and random forests failure prediction models demonstrates that closure type is central to predictability. At a one-month horizon, random forests accuracy increases from 0.78 to 0.96 when S-, T-, and M-type failures are excluded, and logistic regression accuracy rises from 0.73 to 0.86. Gains persist, though attenuate, at longer horizons, and S/T/M subsets remain the least predictable.\n\n\n\n\n\nThesis work\n\n\n\n\n\n\nRozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).\n\n\n\n\n\n\n\n\n\nRozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. Bachelor’s thesis supervised by Dr. Alexei Karas (UCR)."
-  },
-  {
-    "objectID": "news/250917_new_website.html",
-    "href": "news/250917_new_website.html",
-    "title": "New website is live!",
-    "section": "",
-    "text": "I lauched a new version of my website!\n\nQuarto\nPreviously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to Quarto. The website it still published via GitHub Pages, but now the source code is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.\n\n\nVisual identity\nI got bored of the previous design, and wanted something more whimsical. I also thought it would be good to highlight more of my work, especially my R projects.\nNow the landing page features a set of cards directing to different parts of the website. I introduced new pages to share news and updates from my work, and a portfolio of my R projects. These pages will slowly be populated with content. The cards themselves are illustrated with some of my own R-based generative art – all code is available on GitHub.\nI shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair. The header and footer color matches my newly painted walls – gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)\nAnyway, so far I’m enjoying the new design, and there is certainly more to come.\n\n\nCredits\nIn addition to heavily relying on the Quarto website documentation, the home page card setup was inspired by the websites of Ella Kaye and Danielle Navarro. And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT."
+    "text": "Bachelor’s level\n\nTeaching Assistant VU Amsterdam:\n\nQuantitative Research Methods II (2025)\nChoices, Inequality, and Welfare (2024)\nEconomic Principles in a Global Era (2024)\n\nUCR Data Center Apprenticeship program (2024–): description, materials, and results\nData encounters in UCR courses (2022–): materials\nAcademic Internship supervision (2022–)\n\n\n\nMaster’s level\n\nResearch Master level Statistics (Tinbergen Institute; Teaching Assistant)"
   },
   {
     "objectID": "r.html",
@@ -35,11 +14,32 @@
     "text": "I use R a lot. Some examples will follow soon."
   },
   {
+    "objectID": "news/250917_new_website.html",
+    "href": "news/250917_new_website.html",
+    "title": "New website is live!",
+    "section": "",
+    "text": "I lauched a new version of my website!\n\nQuarto\nPreviously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to Quarto. The website it still published via GitHub Pages, but now the source code is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.\n\n\nVisual identity\nI got bored of the previous design, and wanted something more whimsical. I also thought it would be good to highlight more of my work, especially my R projects.\nNow the landing page features a set of cards directing to different parts of the website. I introduced new pages to share news and updates from my work, and a portfolio of my R projects. These pages will slowly be populated with content. The cards themselves are illustrated with some of my own R-based generative art – all code is available on GitHub.\nI shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair. The header and footer color matches my newly painted walls – gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)\nAnyway, so far I’m enjoying the new design, and there is certainly more to come.\n\n\nCredits\nIn addition to heavily relying on the Quarto website documentation, the home page card setup was inspired by the websites of Ella Kaye and Danielle Navarro. And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PDF cannot be displayed. :("
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
     "text": "I am an applied microeconomist with an interest in the economics of (higher) education.\nI am currently a PhD student at the Vrije Universiteit Amsterdam in the Netherlands; my supervisors are Bas van der Klaauw and Hessel Oosterbeek. I completed the Economics Research Master of Tinbergen Institute, and received my Bachelor’s degree from University College Roosevelt with a major in Economics, Data Science, and Statistics.\nI am a Graduate Fellow for the University College Roosevelt Data Center and the Data Manager for CORE Econ."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tina Rozsos",
+    "section": "",
+    "text": "who I am\n\n\n\n\n\n\n\n\n\n\n\nnews and updates\n\n\n\n\n\n\n\n\n\n\n\nacademic research\n\n\n\n\n\n\n\n\n\n\n\nteaching and supervision\n\n\n\n\n\n\n\n\n\n\n\nall sorts of R projects\n\n\n\n\n\n\n\n\n\n\n\nfull CV"
   },
   {
     "objectID": "news.html",
@@ -49,10 +49,10 @@
     "text": "New website is live!\n\n\nTransition to Quarto and new visual identity\n\n\n\n\n\nMay 9, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Bachelor’s level\n\nTeaching Assistant VU Amsterdam:\n\nQuantitative Research Methods II (2025)\nChoices, Inequality, and Welfare (2024)\nEconomic Principles in a Global Era (2024)\n\nUCR Data Center Apprenticeship program (2024–): description, materials, and results\nData encounters in UCR courses (2022–): materials\nAcademic Internship supervision (2022–)\n\n\n\nMaster’s level\n\nResearch Master level Statistics (Tinbergen Institute; Teaching Assistant)"
+    "text": "Work in progress\n\n\n\n\n\n\nThe Timing of Academic Specialization: Impacts on Student Outcomes\n\n\n\n\n\nJoint work with Alexei Karas\nIn many educational systems, including most of Europe, students apply to college by choosing a specific degree program, and have little control over the composition of their curriculum beyond this choice. In most US colleges — especially in Liberal Arts and Sciences (LAS) programs that focus on interdisciplinary education — students do not have to commit to a discipline at enrollment. They can explore their interests by taking courses in diverse fields, and can change the direction of their studies multiple times without having to transfer to a different program and risk losing study credits. While this exploration stage may lead to better match quality between students and their chosen fields of study, a less coherent and focused curriculum may reduce the alignment of academic records and future educational or occupational aspirations. Understanding this trade-off in how the timing of academic specialization affects academic and labor market outcomes can be valuable for optimizing undergraduate program structures.\n\n\n\n\n\n\n\n\n\nSchool Choice, School Switching, and Optimal Assignment\n\n\n\n\n\nJoint work with Bas van der Klaauw and Hessel Oosterbeek\nClose to 20% of secondary school students in Amsterdam – and elsewhere – transfer to another secondary school at some point, even when initially placed in their top-ranked school. Such switches are costly for the students involved and disrupts the learning environment of their former and new classmates. This study investigates whether these transfers are the result of initial school choices that are “hard-to-rationalize”. Using data from the Amsterdam secondary school match linked to administrative registers, we estimate models of school demand and switching behavior. Our results show that switching is indeed predicted by “hard-to-rationalize” initial school choices, which we quantify by a low predicted probability of choosing the preferred school. Over 60% of switchers can be correctly identified at the admission stage. Simulations suggest that informing predicted switchers and encouraging them to adjust their initial preferences can reduce the average expected switching probability by up to 15%.\n\n\n\n\n\n\n\n\n\nBank Failure Prediction: Supplementing Standard Approaches with the Thematic Analysis of Reasons of Bank Closure\n\n\n\n\n\nJoint work with Alexei Karas\nWe combine textual and quantitative evidence to study bank closures in Russia. From Central Bank of Russia (CBR) press releases, we identify four failure themes: self-termination (S), transparency violations (T), mismanagement or fraud (M), and balance-sheet distress (CAEL). We validate this typology by showing that thematic spikes track major macroeconomic shocks, regulatory reforms, and changes in CBR leadership. Incorporating the validated typology into logistic regression and random forests failure prediction models demonstrates that closure type is central to predictability. At a one-month horizon, random forests accuracy increases from 0.78 to 0.96 when S-, T-, and M-type failures are excluded, and logistic regression accuracy rises from 0.73 to 0.86. Gains persist, though attenuate, at longer horizons, and S/T/M subsets remain the least predictable.\n\n\n\n\n\nThesis work\n\n\n\n\n\n\nRozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).\n\n\n\n\n\n\n\n\n\nRozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. Bachelor’s thesis supervised by Dr. Alexei Karas (UCR)."
   }
 ]
