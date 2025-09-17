@@ -20,6 +20,7 @@
 
 
 <p>I lauched a new version of my website!</p>
+<p>This is the new home page: <img src="https://tinarozsos.github.io/assets/img/250917_home.jpg" class="img-fluid" alt="Image of the home page featuring rainbow-colored cards to subpages of the website"></p>
 <section id="quarto" class="level1">
 <h1>Quarto</h1>
 <p>Previously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to <a href="https://quarto.org/">Quarto</a>. The website it still published via GitHub Pages, but now the <a href="https://github.com/tinarozsos/tinarozsos.github.io">source code</a> is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.</p>
