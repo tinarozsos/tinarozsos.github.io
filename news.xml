@@ -9,8 +9,8 @@
 <link>https://tinarozsos.github.io/news.html</link>
 <atom:link href="https://tinarozsos.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Tina Rozsos</description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Fri, 08 May 2026 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>New website is live!</title>
   <link>https://tinarozsos.github.io/news/250917_new_website.html</link>
@@ -41,7 +41,7 @@
 
  ]]></description>
   <guid>https://tinarozsos.github.io/news/250917_new_website.html</guid>
-  <pubDate>Fri, 08 May 2026 22:00:00 GMT</pubDate>
+  <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
   <media:content url="https://tinarozsos.github.io/assets/img/250917_home.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
