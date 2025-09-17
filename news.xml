@@ -9,27 +9,39 @@
 <link>https://tinarozsos.github.io/news.html</link>
 <atom:link href="https://tinarozsos.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Tina Rozsos</description>
-<image>
-<url>https://tinarozsos.github.io/assets/img/pride93.png</url>
-<title>Tina Rozsos</title>
-<link>https://tinarozsos.github.io/news.html</link>
-</image>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Tue, 16 Sep 2025 21:32:59 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>test</title>
-  <link>https://tinarozsos.github.io/news/test.html</link>
+  <title>New website is live!</title>
+  <link>https://tinarozsos.github.io/news/250917_new_website.html</link>
   <description><![CDATA[ 
 
 
 
 
+<p>I lauched a new version of my website!</p>
+<section id="quarto" class="level1">
+<h1>Quarto</h1>
+<p>Previously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to <a href="https://quarto.org/">Quarto</a>. The website it still published via GitHub Pages, but now the <a href="https://github.com/tinarozsos/tinarozsos.github.io">source code</a> is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.</p>
+</section>
+<section id="visual-identity" class="level1">
+<h1>Visual identity</h1>
+<p>I got bored of the previous design, and wanted something more whimsical. I also thought it would be good to highlight more of my work, especially my R projects.</p>
+<p>Now the landing page features a set of cards directing to different parts of the website. I introduced new pages to share news and updates from my work, and a portfolio of my R projects. These pages will slowly be populated with content. The cards themselves are illustrated with some of my own R-based generative art – all code is available on <a href="https://github.com/tinarozsos/art">GitHub</a>.</p>
+<p>I shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair. The header and footer color matches my newly painted walls – gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)</p>
+<p>Anyway, so far I’m enjoying the new design, and there is certainly more to come.</p>
+</section>
+<section id="credits" class="level1">
+<h1>Credits</h1>
+<p>In addition to heavily relying on the <a href="https://quarto.org/docs/websites/">Quarto website documentation</a>, the home page card setup was inspired by the websites of <a href="https://ellakaye.co.uk/">Ella Kaye</a> and <a href="https://djnavarro.net/">Danielle Navarro</a>. And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT.</p>
 
 
+</section>
 
  ]]></description>
-  <guid>https://tinarozsos.github.io/news/test.html</guid>
-  <pubDate>Tue, 16 Sep 2025 21:32:59 GMT</pubDate>
+  <guid>https://tinarozsos.github.io/news/250917_new_website.html</guid>
+  <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://tinarozsos.github.io/news/assets/250917_home.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
