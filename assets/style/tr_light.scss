@@ -81,6 +81,10 @@ h1 {
     color: $primary;
 }
 
+.listing-subtitle, .listing-title  {
+    text-align: left;
+}
+
 // font sizes;
 $font-size-base:   1.125rem; //!default; // Assumes the browser default, typically `16px`
 $h1-font-size:     $font-size-base * 1.6 !default;

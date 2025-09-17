@@ -4,7 +4,7 @@ subtitle: "Transition to Quarto and new visual identity"
 date: 17/09/2025
 date-format: long
 format: html
-image: assets/250917_home.jpg
+image: assets/img/250917_home.jpg
 ---
 
 I lauched a new version of my website!

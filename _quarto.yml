@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-  - assets/CV_Tina_Rozsos.pdf
+  - assets/
 
 execute:
   freeze: auto
