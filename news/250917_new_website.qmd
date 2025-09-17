@@ -4,10 +4,13 @@ subtitle: "Transition to Quarto and new visual identity"
 date: 17/09/2025
 date-format: long
 format: html
-image: assets/img/250917_home.jpg
+image: ../assets/img/250917_home.jpg
 ---
 
 I lauched a new version of my website!
+
+This is the new home page:
+![Image of the home page featuring rainbow-colored cards to subpages of the website](../assets/img/250917_home.jpg)
 
 # Quarto
 

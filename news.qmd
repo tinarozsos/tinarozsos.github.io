@@ -5,7 +5,7 @@ listing:
   type: default
   sort: "date"
   feed: true
-  fields: [image, title, subtitle, date]
+  fields: [image, title, subtitle, date, description]
   sort-ui: false
   filter-ui: false
   image-placeholder: "assets/img/header/blob28noise28n150.png"
