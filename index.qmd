@@ -1,7 +1,11 @@
 ---
 title: "Tina Rozsos"
-subtitle: "PhD student in Amsterdam (NL)<br><em>economics of education, data science with R, liberal arts</em>"
+subtitle: "PhD student in Amsterdam (NL)<br><em>economics of education, data science with R, liberal arts & sciences</em>"
 page-layout: full
+format:
+  html:
+    title-block-banner: false
+    logo: assets/img/profile.jpg
 ---
 
 ```{r}

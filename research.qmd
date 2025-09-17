@@ -1,14 +1,44 @@
 ---
-layout: page
 title: "Research"
-output:
-  md_document:
-    variant: gfm
-    preserve_yaml: true
+page-layout: full
 ---
 
-# Unpublished
+# Work in progress
 
-- Rozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. *MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).*
-- Rozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. *Bachelor's thesis supervised by Dr. Alexei Karas (UCR).*
+::: {.callout-caution icon=false collapse=true title="The Timing of Academic Specialization: Impacts on Student Outcomes"}
+*Joint work with Alexei Karas*
 
+In many educational systems, including most of Europe, students apply to college by choosing a specific degree program, and have little control over the composition of their curriculum beyond this choice. In most US colleges --- especially in Liberal Arts and Sciences (LAS) programs that focus on interdisciplinary education --- students do not have to commit to a discipline at enrollment. They can explore their interests by taking courses in diverse fields, and can change the direction of their studies multiple times without having to transfer to a different program and risk losing study credits. While this exploration stage may lead to better match quality between students and their chosen fields of study, a less coherent and focused curriculum may reduce the alignment of academic records and future educational or occupational aspirations. Understanding this trade-off in how the timing of academic specialization affects academic and labor market outcomes can be valuable for optimizing undergraduate program structures.
+:::
+
+::: {.callout-important icon=false collapse=true title="School Choice, School Switching, and Optimal Assignment"}
+*Joint work with Bas van der Klaauw and Hessel Oosterbeek*
+
+Close to 20\% of secondary school students in Amsterdam -- and elsewhere -- transfer to another secondary school at some point, even when initially placed in their top-ranked school.
+Such switches are costly for the students involved and disrupts the learning environment of their former and new classmates.
+This study investigates whether these transfers are the result of  initial school choices that are “hard-to-rationalize”.
+Using data from the Amsterdam secondary school match linked to administrative registers, we estimate models of school demand and switching behavior.
+Our results show that switching is indeed predicted by “hard-to-rationalize” initial school choices, which we quantify by a low predicted probability of choosing the preferred school.  Over 60\% of switchers can be correctly identified at the admission stage.
+Simulations suggest that informing predicted switchers and encouraging them to adjust their initial preferences can reduce the average expected switching probability by up to 15\%.
+:::
+
+::: {.callout-tip icon=false collapse=true title="Bank Failure Prediction: Supplementing Standard Approaches with the Thematic Analysis of Reasons of Bank Closure"}
+*Joint work with Alexei Karas*
+
+We combine textual and quantitative evidence to study bank closures in Russia.
+From Central Bank of Russia (CBR) press releases, we identify four failure themes: self-termination (S), transparency violations (T), mismanagement or fraud (M), and balance-sheet distress (CAEL).
+We validate this typology by showing that thematic spikes track major macroeconomic shocks, regulatory reforms, and changes in CBR leadership.
+Incorporating the validated typology into logistic regression and random forests failure prediction models demonstrates that closure type is central to predictability.
+At a one-month horizon, random forests accuracy increases from 0.78 to 0.96 when S-, T-, and M-type failures are excluded, and logistic regression accuracy rises from 0.73 to 0.86.
+Gains persist, though attenuate, at longer horizons, and S/T/M subsets remain the least predictable.
+:::
+
+# Thesis work
+
+::: {.callout-note icon=false appearance="simple"}
+Rozsos, T. (2024). Switch happens: were school switchers initially assigned to the wrong schools?. *MPhil thesis supervised by Prof. Dr. Bas van der Klaauw (VU), Prof. Dr. Hessel Oosterbeek (UvA).*
+:::
+
+::: {.callout-caution icon=false appearance="simple"}
+Rozsos, T. (2022). Developing bank failure prediction models: Exploring the value of failure type heterogeneity. *Bachelor's thesis supervised by Dr. Alexei Karas (UCR).*
+:::

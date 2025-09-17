@@ -1,10 +1,10 @@
 ---
 title: "About me"
 about:
-  template: solana
+  template: trestles
   image: assets/img/profile.jpg
   image-alt: "Profile picture of Tina"
-  image-width: "320px"
+  image-width: "350px"
   links:
     - icon: github
       text: GitHub

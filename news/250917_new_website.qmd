@@ -1,0 +1,36 @@
+---
+title: "New website is live!"
+subtitle: "Transition to Quarto and new visual identity"
+date: 17/09/2025
+date-format: long
+format: html
+image: assets/250917_home.jpg
+---
+
+I lauched a new version of my website!
+
+# Quarto
+
+Previously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to [Quarto](https://quarto.org/).
+The website it still published via GitHub Pages, but now the [source code](https://github.com/tinarozsos/tinarozsos.github.io) is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo.
+The website is now also more mobile-friendly, and allows more features of Quarto.
+
+# Visual identity
+
+I got bored of the previous design, and wanted something more whimsical.
+I also thought it would be good to highlight more of my work, especially my R projects.
+
+Now the landing page features a set of cards directing to different parts of the website.
+I introduced new pages to share news and updates from my work, and a portfolio of my R projects.
+These pages will slowly be populated with content.
+The cards themselves are illustrated with some of my own R-based generative art -- all code is available on [GitHub](https://github.com/tinarozsos/art).
+
+I shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair.
+The header and footer color matches my newly painted walls -- gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)
+
+Anyway, so far I'm enjoying the new design, and there is certainly more to come.
+
+# Credits
+
+In addition to heavily relying on the [Quarto website documentation](https://quarto.org/docs/websites/), the home page card setup was inspired by the websites of [Ella Kaye](https://ellakaye.co.uk/) and [Danielle Navarro](https://djnavarro.net/).
+And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT.
