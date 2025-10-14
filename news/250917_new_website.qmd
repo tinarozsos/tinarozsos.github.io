@@ -1,7 +1,7 @@
 ---
 title: "New website is live!"
 subtitle: "Transition to Quarto and new visual identity"
-date: 17/09/2025
+date: 2025-09-17
 date-format: long
 format: html
 image: ../assets/img/250917_home.jpg
