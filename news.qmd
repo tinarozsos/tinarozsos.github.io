@@ -3,7 +3,7 @@ title: "News, updates, etc."
 listing:
   contents: news
   type: default
-  sort: "date"
+  sort: date desc
   feed: true
   fields: [image, title, subtitle, date, description]
   sort-ui: false
