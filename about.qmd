@@ -4,7 +4,7 @@ about:
   template: solana
   image: assets/img/profile.jpg
   image-alt: "Profile picture of Tina"
-  image-width: "350px"
+  image-width: "300px"
   links:
     - icon: github
       text: GitHub

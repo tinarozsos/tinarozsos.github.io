@@ -6,11 +6,12 @@ title: "Teaching"
 
 - Teaching Assistant VU Amsterdam:
   + Quantitative Research Methods II (2025)
-  + Choices, Inequality, and Welfare (2024)
+  + Choices, Inequality, and Welfare (2024--2025)
   + Economic Principles in a Global Era (2024)
 
 - UCR Data Center Apprenticeship program (2024--): [description, materials, and results](https://ucrdatacenter.github.io/apprenticeship/)
 - Data encounters in UCR courses (2022--): [materials](https://ucrdatacenter.github.io/courses)
+- Bachelor's thesis supervision (2025--)
 - Academic Internship supervision (2022--)
 
 # Master's level
