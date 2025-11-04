@@ -12,7 +12,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/tina-rozsos/
-    - icon: chat-text
+    - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/tinarozsos.bsky.social
     - icon: envelope-heart
@@ -27,6 +27,4 @@ I am currently a PhD student at the Vrije Universiteit Amsterdam in the Netherla
 Klaauw and Hessel Oosterbeek.
 I completed the Economics Research Master of Tinbergen Institute, and received my Bachelor's degree from University College Roosevelt with a major in Economics, Data Science, and Statistics.
 
-I am a Graduate Fellow for the [University College Roosevelt Data
-Center](https://ucrdatacenter.github.io/) and the Data Manager for [CORE
-Econ](https://www.core-econ.org/).
+Next to my PhD, I am a Graduate Fellow at the [University College Roosevelt Data Center](https://ucrdatacenter.github.io/), where I work towards embedding data science into the curriculum and build (interactive) tools to aid data-driven decision-making across the college. I am also the Data Manager of [CORE Econ](https://www.core-econ.org/), where I am responsible for the data figures of multiple undergraduate economics textbooks.
