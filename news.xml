@@ -10,7 +10,25 @@
 <atom:link href="https://tinarozsos.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Tina Rozsos</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Tue, 14 Oct 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Interview with CORE Econ and Our World in Data</title>
+  <link>https://tinarozsos.github.io/news/251105_core_interview.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I was recently interviewed for a post on <a href="https://www.core-econ.org">CORE Econ</a>’s blog. Eileen Tipoe from the CORE Editorial Board, Joe Hasell from Our World in Data, and I as CORE’s data editor talked about the CORE–OWiD partnership. We talk about how we use OWiD’s interactive charts in CORE textbooks, new OWiD features, and the challenges of collecting and maintaining up-to-date data in a rapidly changing world.</p>
+<p>You can read the full interview <a href="https://www.core-econ.org/from-global-data-to-classroom-insight-the-core-owid-partnership/">here</a>.</p>
+
+
+
+ ]]></description>
+  <guid>https://tinarozsos.github.io/news/251105_core_interview.html</guid>
+  <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://tinarozsos.github.io/assets/img/251105_core.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>My first PhD year: a recap</title>
   <link>https://tinarozsos.github.io/news/251014_first_phd_year.html</link>

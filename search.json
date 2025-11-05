@@ -4,7 +4,7 @@
     "href": "news.html",
     "title": "News, updates, etc.",
     "section": "",
-    "text": "My first PhD year: a recap\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew website is live!\n\n\nTransition to Quarto and new visual identity\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Interview with CORE Econ and Our World in Data\n\n\n\n\n\n\n\n\n\n\n\nNov 5, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nMy first PhD year: a recap\n\n\n\n\n\n\n\n\n\n\n\nOct 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew website is live!\n\n\nTransition to Quarto and new visual identity\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html",
@@ -28,18 +28,11 @@
     "text": "Footnotes\n\n\nIt’s worth noting that “asking other PhDs” was already my most successful method of finding out what conferences even exist. I didn’t want to also immediately ask for subjective evaluations of quality in addition to the links to the calls, fearing I’d look too clingy (my fellow PhDs are very nice and helpful, I shouldn’t worry like this).↩︎"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "news/250917_new_website.html",
+    "href": "news/250917_new_website.html",
+    "title": "New website is live!",
     "section": "",
-    "text": "PDF cannot be displayed. :("
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tina Rozsos",
-    "section": "",
-    "text": "who I am\n\n\n\n\n\n\n\n\n\n\n\nnews and updates\n\n\n\n\n\n\n\n\n\n\n\nacademic research\n\n\n\n\n\n\n\n\n\n\n\nteaching and supervision\n\n\n\n\n\n\n\n\n\n\n\nall sorts of R projects\n\n\n\n\n\n\n\n\n\n\n\nfull CV"
+    "text": "I lauched a new version of my website!\nThis is the new home page: \n\nQuarto\nPreviously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to Quarto. The website it still published via GitHub Pages, but now the source code is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.\n\n\nVisual identity\nI got bored of the previous design, and wanted something more whimsical. I also thought it would be good to highlight more of my work, especially my R projects.\nNow the landing page features a set of cards directing to different parts of the website. I introduced new pages to share news and updates from my work, and a portfolio of my R projects. These pages will slowly be populated with content. The cards themselves are illustrated with some of my own R-based generative art – all code is available on GitHub.\nI shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair. The header and footer color matches my newly painted walls – gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)\nAnyway, so far I’m enjoying the new design, and there is certainly more to come.\n\n\nCredits\nIn addition to heavily relying on the Quarto website documentation, the home page card setup was inspired by the websites of Ella Kaye and Danielle Navarro. And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT."
   },
   {
     "objectID": "teaching.html",
@@ -49,11 +42,25 @@
     "text": "Bachelor’s level\n\nTeaching Assistant VU Amsterdam:\n\nQuantitative Research Methods II (2025)\nChoices, Inequality, and Welfare (2024–2025)\nEconomic Principles in a Global Era (2024)\n\nUCR Data Center Apprenticeship program (2024–): description, materials, and results\nData encounters in UCR courses (2022–): materials\nBachelor’s thesis supervision (2025–)\nAcademic Internship supervision (2022–)\n\n\n\nMaster’s level\n\nResearch Master level Statistics (Tinbergen Institute; Teaching Assistant)"
   },
   {
-    "objectID": "news/250917_new_website.html",
-    "href": "news/250917_new_website.html",
-    "title": "New website is live!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tina Rozsos",
     "section": "",
-    "text": "I lauched a new version of my website!\nThis is the new home page: \n\nQuarto\nPreviously run on Beautiful Jekyll and Rmarkdown, I have now transitioned to Quarto. The website it still published via GitHub Pages, but now the source code is cleaner, with only the QMD files, SCSS stylesheet, and other assets in the repo. The website is now also more mobile-friendly, and allows more features of Quarto.\n\n\nVisual identity\nI got bored of the previous design, and wanted something more whimsical. I also thought it would be good to highlight more of my work, especially my R projects.\nNow the landing page features a set of cards directing to different parts of the website. I introduced new pages to share news and updates from my work, and a portfolio of my R projects. These pages will slowly be populated with content. The cards themselves are illustrated with some of my own R-based generative art – all code is available on GitHub.\nI shifted the colour scheme to a colorful pastel palette, chose a new font set (Quicksand and Inter), and made use of icons for a bit of extra flair. The header and footer color matches my newly painted walls – gotta keep the visual identity consistent online and offline! (or maybe I just really like the color)\nAnyway, so far I’m enjoying the new design, and there is certainly more to come.\n\n\nCredits\nIn addition to heavily relying on the Quarto website documentation, the home page card setup was inspired by the websites of Ella Kaye and Danielle Navarro. And since my HTML and CSS skills are not quite aligned with the level of customisation I desire, chunks of the SCSS file and some of the HTML bits in the QMD files are the results of extensive back-and-forth chats with ChatGPT."
+    "text": "who I am\n\n\n\n\n\n\n\n\n\n\n\nnews and updates\n\n\n\n\n\n\n\n\n\n\n\nacademic research\n\n\n\n\n\n\n\n\n\n\n\nteaching and supervision\n\n\n\n\n\n\n\n\n\n\n\nall sorts of R projects\n\n\n\n\n\n\n\n\n\n\n\nfull CV"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "PDF cannot be displayed. :("
+  },
+  {
+    "objectID": "news/251105_core_interview.html",
+    "href": "news/251105_core_interview.html",
+    "title": "Interview with CORE Econ and Our World in Data",
+    "section": "",
+    "text": "I was recently interviewed for a post on CORE Econ’s blog. Eileen Tipoe from the CORE Editorial Board, Joe Hasell from Our World in Data, and I as CORE’s data editor talked about the CORE–OWiD partnership. We talk about how we use OWiD’s interactive charts in CORE textbooks, new OWiD features, and the challenges of collecting and maintaining up-to-date data in a rapidly changing world.\nYou can read the full interview here."
   },
   {
     "objectID": "about.html",
