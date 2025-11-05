@@ -10,32 +10,46 @@ format:
 
 ```{r}
 #| echo: false
-add_card <- function(url, text, icon, img, img_alt, color) {
+add_card <- function(url, text, icon, img, color) {
   lines <- c(
-  '<div class="g-col-12 g-col-md-6 g-col-xl-4">',
-  paste0(
-    '<a href="', url, '" style="text-decoration: none; color: inherit;">',
-      '<div class="card h-100" style="border: 4px solid ', color,
-      '; background-color: ', colorspace::lighten(color, 0.7),
+    '<div class="g-col-12 g-col-md-6 g-col-xl-4">',
+    paste0(
+      '<a href="',
+      url,
+      '" style="text-decoration: none; color: inherit;">',
+      '<div class="card h-100" style="border: 4px solid ',
+      color,
+      '; background-color: ',
+      colorspace::lighten(color, 0.7),
       '; transition: transform 0.3s, box-shadow 0.3s;"',
       ' onmouseover="this.style.transform=\'scale(1.05)\'; this.style.boxShadow=\'0 8px 20px rgba(0,0,0,0.3)\';"',
       ' onmouseout="this.style.transform=\'scale(1)\'; this.style.boxShadow=\'none\';">'
-  ),
-  paste0('<img src="assets/img/header/', img, '" alt="', img_alt, '" class="card-img-top" style="opacity: 0.8;">'),
-  '<div class="card-body" style="padding: 1rem 1rem 0rem 1rem;">',
-  paste0(
-    '<div class="btn d-inline-flex" style="background-color:', color, '; border:none;">',
-    '<i class="bi bi-', icon, '" style="margin-right: 10px;"></i>',
-    text,
+    ),
+    paste0(
+      '<img src="assets/img/header/',
+      img,
+      '" alt="',
+      text,
+      '" class="card-img-top" style="opacity: 0.8;">'
+    ),
+    '<div class="card-body" style="padding: 1rem 1rem 0rem 1rem;">',
+    paste0(
+      '<div class="btn d-inline-flex" style="background-color:',
+      color,
+      '; border:none;">',
+      '<i class="bi bi-',
+      icon,
+      '" style="margin-right: 10px;"></i>',
+      text,
+      '</div>'
+    ),
+    '</div>',
+    '</div>',
+    '</a>',
     '</div>'
-  ),
-  '</div>',
-  '</div>',
-  '</a>',
-  '</div>'
-)
+  )
 
-  cat(lines, sep="\n")
+  cat(lines, sep = "\n")
 }
 ```
 
@@ -49,7 +63,6 @@ add_card(
   text = 'who I am',
   icon = 'person-bounding-box',
   img = 'pride532step0.2n1line_21.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#E40303', 0.2)
 )
 
@@ -58,7 +71,6 @@ add_card(
   text = 'news and updates',
   icon = 'lightning-fill',
   img = 'flows241n200_21.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#FF8C00', 0.2)
 )
 
@@ -67,7 +79,6 @@ add_card(
   text = 'academic research',
   icon = 'feather',
   img = 'flows263n600_21.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#FFED00', 0.1)
 )
 
@@ -76,7 +87,6 @@ add_card(
   text = 'teaching and supervision',
   icon = 'broadcast',
   img = 'flows215n1000_21.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#008026', 0.3)
 )
 
@@ -85,7 +95,6 @@ add_card(
   text = 'all sorts of R projects',
   icon = 'code',
   img = 'flows266n1200.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#004CFF', 0.3)
 )
 
@@ -94,7 +103,6 @@ add_card(
   text = 'full CV',
   icon = 'fingerprint',
   img = 'pride62step0.3n1line_21.png',
-  img_alt = 'generative art made by Tina',
   color = colorspace::lighten('#732982', 0.4)
 )
 
