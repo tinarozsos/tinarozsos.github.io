@@ -1,0 +1,13 @@
+---
+title: "Interview with CORE Econ and Our World in Data"
+date: 2025-11-05
+date-format: long
+format: html
+image: ../assets/img/251105_core.jpg
+---
+
+I was recently interviewed for a post on [CORE Econ](https://www.core-econ.org)'s blog.
+Eileen Tipoe from the CORE Editorial Board, Joe Hasell from Our World in Data, and I as CORE's data editor talked about the CORE–OWiD partnership.
+We talk about how we use OWiD's interactive charts in CORE textbooks, new OWiD features, and the challenges of collecting and maintaining up-to-date data in a rapidly changing world.
+
+You can read the full interview [here](https://www.core-econ.org/from-global-data-to-classroom-insight-the-core-owid-partnership/).
