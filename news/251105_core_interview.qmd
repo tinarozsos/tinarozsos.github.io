@@ -3,7 +3,7 @@ title: "Interview with CORE Econ and Our World in Data"
 date: 2025-11-05
 date-format: long
 format: html
-image: ../assets/img/251105_core.jpg
+image: ../assets/img/251105_core.png
 ---
 
 I was recently interviewed for a post on [CORE Econ](https://www.core-econ.org)'s blog.
