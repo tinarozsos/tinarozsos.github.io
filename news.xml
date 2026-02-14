@@ -9,8 +9,47 @@
 <link>https://tinarozsos.github.io/news.html</link>
 <atom:link href="https://tinarozsos.github.io/news.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Tina Rozsos</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 05 Nov 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sat, 14 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>rainbowR conference and leadership committees</title>
+  <link>https://tinarozsos.github.io/news/260214_rainbowr_conf_committee.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I have recently been taking a more active role in <a href="https://rainbowr.org/">rainbowR</a>, a community that supports, promotes and connects LGBTQ+ people who code in the R language, and spreads awareness of LGBTQ+ issues through data-driven activism. I’m very excited to be a member of the newly elected rainbowR leadership committee and to help organize the inaugural rainbowR conference as part of the conference organization committee.</p>
+<p>The leadership committee was elected at the inaugural rainbowR Annual General Meeting as part of a process to formalize rainbowR into an unincorporated association with a membership-approved constitution. Having been a member of the rainbowR community since 2024, I’ve frequently participated in the monthly meetups, and enjoyed meeting many others who share my excitement about R. I look forward to being able to do more for the community as part of the leadership team.</p>
+<p>The inagural <a href="https://conference.rainbowr.org/">rainbowR conference</a> is our first major event, taking place as a virtual conference between 25–26 February. It will bring together LGBTQIA+ users of R, and their allies, to promote their work and foster connections amongst the community through a lineup of great speakers and multiple workshops and social events. I’ve had a great time collaborating with the other members of the organizing committee, and I can’t wait to see the conference happen!</p>
+
+
+
+ ]]></description>
+  <guid>https://tinarozsos.github.io/news/260214_rainbowr_conf_committee.html</guid>
+  <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://tinarozsos.github.io/assets/img/260214_rainbowr.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>New working paper</title>
+  <link>https://tinarozsos.github.io/news/251130_school_choice_working_paper.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My first working paper is out! The paper <em>School choice, school switching, and optimal assignment</em>, coauthored with Hessel Oosterbeek and Bas van der Klaauw, is now available online as a <a href="https://tinbergen.nl/discussion-paper/6453/25-066-v-school-choice-school-switching-and-optimal-assignment">Tinbergen Institute Discussion Paper</a>.</p>
+<p><strong>Abstract</strong></p>
+<p>Close to 20% of secondary school students in Amsterdam - and elsewhere - transfer between secondary schools at some point, even when initially placed in their most-preferred school. School switching is costly for the students involved and disrupts the learning environment of their former and new classmates. Using data from the Amsterdam secondary-school match linked to administrative registers, we show that switching can be predicted by hard-to-rationalize initial school choices. Over 60% of switchers can be correctly identified at the admission stage. Simulations indicate that encouraging predicted switchers to adjust their preference ranking of schools could reduce the switching rate by almost 15%.</p>
+<p><strong>JEL codes:</strong> I21, C35, C53</p>
+<p><strong>Keywords:</strong> secondary education, school choice, school switching, admission lottery</p>
+
+
+
+ ]]></description>
+  <guid>https://tinarozsos.github.io/news/251130_school_choice_working_paper.html</guid>
+  <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Interview with CORE Econ and Our World in Data</title>
   <link>https://tinarozsos.github.io/news/251105_core_interview.html</link>
