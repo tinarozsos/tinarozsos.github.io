@@ -25,7 +25,7 @@
     "href": "r.html",
     "title": "R projects",
     "section": "",
-    "text": "Generative(/procedural) art with R\n\n\nExploring stochastic and deterministic processes to make art with R\n\n\n\n\n\n\n\n\n\n\nPhD documentation with R and Quarto\n\n\nA template for a searchable, structured, and comprehensive documentation of all aspects of a PhD.\n\n\n\n\n\n\n\n\n\n\nShiny app to learn Dutch\n\n\nInteractive vocabulary practice\n\n\n\n\n\n\n\n\n\n\n\n\nShiny-based memory game\n\n\nA fun project for a friend’s birthday\n\n\n\n\n\nNo matching items"
+    "text": "Generative art with R\n\n\nExploring stochastic and deterministic processes to make art with R\n\n\n\n\n\n\n\n\n\n\n\n\nPhD documentation with R and Quarto\n\n\nA template for a searchable, structured, and comprehensive documentation of all aspects of a PhD.\n\n\n\n\n\n\n\n\n\n\n\n\nShiny app to learn Dutch\n\n\nInteractive vocabulary practice\n\n\n\n\n\n\n\n\n\n\n\n\nShiny-based memory game\n\n\nA fun project for a friend’s birthday\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "r/phd-template.html",
@@ -79,7 +79,7 @@
   {
     "objectID": "r/art.html",
     "href": "r/art.html",
-    "title": "Generative(/procedural) art with R",
+    "title": "Generative art with R",
     "section": "",
     "text": "I played around with using {ggplot2} and {ambient} to make art in R. I relied heavily on tutorials by {Danielle Navarro](https://blog.djnavarro.net/) and others, and enjoyet setting up various systems and working out how various tweaks to the underlying code affected the output.\nI put together a sort-of gallery with links to the source code of each image here."
   },
