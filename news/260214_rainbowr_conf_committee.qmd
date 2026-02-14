@@ -1,0 +1,18 @@
+---
+title: "rainbowR conference and leadership committees"
+date: 2026-02-14
+date-format: long
+format: html
+image: ../assets/img/260214_rainbowr.png
+---
+
+I have recently been taking a more active role in [rainbowR](https://rainbowr.org/), a community that supports, promotes and connects LGBTQ+ people who code in the R language, and spreads awareness of LGBTQ+ issues through data-driven activism.
+I'm very excited to be a member of the newly elected rainbowR leadership committee and to help organize the inaugural rainbowR conference as part of the conference organization committee.
+
+The leadership committee was elected at the inaugural rainbowR Annual General Meeting as part of a process to formalize rainbowR into an unincorporated association with a membership-approved constitution.
+Having been a member of the rainbowR community since 2024, I've frequently participated in the monthly meetups, and enjoyed meeting many others who share my excitement about R.
+I look forward to being able to do more for the community as part of the leadership team.
+
+The inagural [rainbowR conference](https://conference.rainbowr.org/) is our first major event, taking place as a virtual conference between 25--26 February.
+It will bring together LGBTQIA+ users of R, and their allies, to promote their work and foster connections amongst the community through a lineup of great speakers and multiple workshops and social events.
+I've had a great time collaborating with the other members of the organizing committee, and I can't wait to see the conference happen!
