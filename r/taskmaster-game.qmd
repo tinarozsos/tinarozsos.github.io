@@ -1,0 +1,23 @@
+---
+title: "Shiny-based memory game"
+subtitle: "A fun project for a friend's birthday"
+format: html
+image: ../assets/img/taskmaster-game.png
+---
+
+One of my friends really likes the UK TV show *Taskmaster*, and so do I.
+So when her birthday was coming up, I made her a fun game based on *Taskmaster* quotes in the best way I could think of: a Shiny app!
+
+The game design is very simple.
+There are 8 pairs of cards, face down in a grid.
+The player must find all matching pairs by flipping over two cards at a time.
+But instead of having pairs of identical images, the pairs are a quote, item, or action, and the person most closely associated with it.
+
+While it's just about the simplest game imaginable in real life, implementing it as a Shiny app came with various challenges to get all mechanisms right.
+At the same time, both the server logic and the *Taskmaster*-style theming proved to be great opportunities for some experimentation with Positron Assistant.
+
+In addition, I could practice my web scraping skills by extracting quotes from the [Taskmaster Wiki](https://taskmaster.fandom.com/wiki/Taskmaster_Wiki) and had fun choosing my favorite [out-of-context quotes](https://www.instagram.com/taskmasternocontext/).
+This was also my first time using Posit Connect Cloud instead of shinyapps.io, and I was very pleased with the experience.
+
+Want to play the game?
+Try it [here](https://tina-r-happy-birthday-fleur.share.connect.posit.cloud/)!
