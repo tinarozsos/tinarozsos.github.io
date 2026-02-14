@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/r.html",
+    "items": [
+      "/r/phd-template.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
       "/news/260214_rainbowr_conf_committee.html",
