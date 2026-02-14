@@ -1,0 +1,10 @@
+---
+title: "Generative(/procedural) art with R"
+subtitle: "Exploring stochastic and deterministic processes to make art with R"
+format: html
+---
+
+I played around with using {ggplot2} and {ambient} to make art in R.
+I relied heavily on tutorials by {Danielle Navarro](https://blog.djnavarro.net/) and others, and enjoyet setting up various systems and working out how various tweaks to the underlying code affected the output.
+
+I put together a sort-of gallery with links to the source code of each image [here](https://tinarozsos.github.io/art/).
