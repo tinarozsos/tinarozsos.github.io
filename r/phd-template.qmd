@@ -2,6 +2,7 @@
 title: "PhD documentation with R and Quarto"
 subtitle: "A template for a searchable, structured, and comprehensive documentation of all aspects of a PhD."
 format: html
+image: ../assets/img/r/phd-template.png
 ---
 
 Based on the site I use to keep track of the knowledge and documentation I accumulate during my ongoing PhD, I prepared a ready-to-use template.

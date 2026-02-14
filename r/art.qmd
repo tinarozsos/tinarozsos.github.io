@@ -1,5 +1,5 @@
 ---
-title: "Generative(/procedural) art with R"
+title: "Generative art with R"
 subtitle: "Exploring stochastic and deterministic processes to make art with R"
 format: html
 ---

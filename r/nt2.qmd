@@ -2,6 +2,7 @@
 title: "Shiny app to learn Dutch"
 subtitle: "Interactive vocabulary practice"
 format: html
+image: ../assets/img/r/nt2.png
 ---
 
 While taking Dutch courses, I found it easy to practice in class and do the assigned homework in preparation, but I often found myself unmotivated to effectively work on my vocabulary outside of class and assignments.
