@@ -39,7 +39,7 @@ website:
   page-footer:
     background: light
     foreground: dark
-    left: "Copyright 2025, Tina Rozsos"
+    left: "Copyright 2026, Tina Rozsos"
     center:
       - icon: github
         href: https://github.com/tinarozsos
