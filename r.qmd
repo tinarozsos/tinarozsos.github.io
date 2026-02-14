@@ -3,7 +3,7 @@ title: "R projects"
 listing:
   contents: r
   type: grid
-  sort: date desc
+  sort: title asc
   feed: true
   fields: [image, title, subtitle]
   sort-ui: false

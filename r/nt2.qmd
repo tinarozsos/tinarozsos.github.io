@@ -1,0 +1,16 @@
+---
+title: "Shiny app to learn Dutch"
+subtitle: "Interactive vocabulary practice"
+format: html
+---
+
+While taking Dutch courses, I found it easy to practice in class and do the assigned homework in preparation, but I often found myself unmotivated to effectively work on my vocabulary outside of class and assignments.
+
+To make practice more fun for myself, I took the PDF vocabulary lists that came with our textbook, scraped the contents into CSV files, and built an interactive Shiny app.
+After selecting which units I want to cover and what kind of exercise to see (translating to Dutch, to English, idioms, phrases, or irregular verbs), I get a randomly generated exercise lists, and can input my answers into a textbox before looking at the solutions.
+
+The app looks rather ugly, but I could't justify spending more time on making it look nicer.
+I had to actually go practice the vocabulary after all. :)
+
+The app is available on [shinyapps.io](https://tina-r.shinyapps.io/VU-NT2/).
+As for proof that it works: after using the app to spend many train rides practicing on my phone instead of scrolling through social media, I had no problems passing the exams at the end of the course.
