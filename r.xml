@@ -10,7 +10,7 @@
 <atom:link href="https://tinarozsos.github.io/r.xml" rel="self" type="application/rss+xml"/>
 <description>Personal website of Tina Rozsos</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sat, 14 Feb 2026 13:07:45 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 13:08:54 GMT</lastBuildDate>
 <item>
   <title>Generative art with R</title>
   <link>https://tinarozsos.github.io/r/art.html</link>
@@ -26,7 +26,7 @@
 
  ]]></description>
   <guid>https://tinarozsos.github.io/r/art.html</guid>
-  <pubDate>Sat, 14 Feb 2026 13:07:45 GMT</pubDate>
+  <pubDate>Sat, 14 Feb 2026 13:08:54 GMT</pubDate>
 </item>
 <item>
   <title>PhD documentation with R and Quarto</title>
@@ -46,7 +46,7 @@
 
  ]]></description>
   <guid>https://tinarozsos.github.io/r/phd-template.html</guid>
-  <pubDate>Sat, 14 Feb 2026 13:07:45 GMT</pubDate>
+  <pubDate>Sat, 14 Feb 2026 13:08:54 GMT</pubDate>
   <media:content url="https://tinarozsos.github.io/assets/img/r/phd-template.png" medium="image" type="image/png" height="129" width="144"/>
 </item>
 <item>
@@ -66,7 +66,7 @@
 
  ]]></description>
   <guid>https://tinarozsos.github.io/r/nt2.html</guid>
-  <pubDate>Sat, 14 Feb 2026 13:07:45 GMT</pubDate>
+  <pubDate>Sat, 14 Feb 2026 13:08:54 GMT</pubDate>
   <media:content url="https://tinarozsos.github.io/assets/img/r/nt2.png" medium="image" type="image/png" height="97" width="144"/>
 </item>
 <item>
@@ -87,7 +87,7 @@
 
  ]]></description>
   <guid>https://tinarozsos.github.io/r/taskmaster-game.html</guid>
-  <pubDate>Sat, 14 Feb 2026 13:07:45 GMT</pubDate>
+  <pubDate>Sat, 14 Feb 2026 13:08:54 GMT</pubDate>
   <media:content url="https://tinarozsos.github.io/assets/img/taskmaster-game.png" medium="image" type="image/png"/>
 </item>
 </channel>
