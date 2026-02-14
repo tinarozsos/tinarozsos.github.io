@@ -3,13 +3,7 @@ title: "Research"
 page-layout: full
 ---
 
-# Work in progress
-
-::: {.callout-caution icon=false collapse=true title="The Timing of Academic Specialization: Impacts on Student Outcomes"}
-*Joint work with Alexei Karas*
-
-In many educational systems, including most of Europe, students apply to college by choosing a specific degree program, and have little control over the composition of their curriculum beyond this choice. In most US colleges --- especially in Liberal Arts and Sciences (LAS) programs that focus on interdisciplinary education --- students do not have to commit to a discipline at enrollment. They can explore their interests by taking courses in diverse fields, and can change the direction of their studies multiple times without having to transfer to a different program and risk losing study credits. While this exploration stage may lead to better match quality between students and their chosen fields of study, a less coherent and focused curriculum may reduce the alignment of academic records and future educational or occupational aspirations. Understanding this trade-off in how the timing of academic specialization affects academic and labor market outcomes can be valuable for optimizing undergraduate program structures.
-:::
+# Working papers
 
 ::: {.callout-important icon=false collapse=true title="School Choice, School Switching, and Optimal Assignment"}
 *Joint work with Bas van der Klaauw and Hessel Oosterbeek*
@@ -20,6 +14,16 @@ This study investigates whether these transfers are the result of  initial schoo
 Using data from the Amsterdam secondary school match linked to administrative registers, we estimate models of school demand and switching behavior.
 Our results show that switching is indeed predicted by “hard-to-rationalize” initial school choices, which we quantify by a low predicted probability of choosing the preferred school.  Over 60\% of switchers can be correctly identified at the admission stage.
 Simulations suggest that informing predicted switchers and encouraging them to adjust their initial preferences can reduce the average expected switching probability by up to 15\%.
+
+[Read the paper here](https://tinbergen.nl/discussion-paper/6453/25-066-v-school-choice-school-switching-and-optimal-assignment)
+:::
+
+# Work in progress
+
+::: {.callout-caution icon=false collapse=true title="The Timing of Academic Specialization: Impacts on Student Outcomes"}
+*Joint work with Alexei Karas*
+
+In many educational systems, including most of Europe, students apply to college by choosing a specific degree program, and have little control over the composition of their curriculum beyond this choice. In most US colleges --- especially in Liberal Arts and Sciences (LAS) programs that focus on interdisciplinary education --- students do not have to commit to a discipline at enrollment. They can explore their interests by taking courses in diverse fields, and can change the direction of their studies multiple times without having to transfer to a different program and risk losing study credits. While this exploration stage may lead to better match quality between students and their chosen fields of study, a less coherent and focused curriculum may reduce the alignment of academic records and future educational or occupational aspirations. Understanding this trade-off in how the timing of academic specialization affects academic and labor market outcomes can be valuable for optimizing undergraduate program structures.
 :::
 
 ::: {.callout-tip icon=false collapse=true title="Bank Failure Prediction: Supplementing Standard Approaches with the Thematic Analysis of Reasons of Bank Closure"}

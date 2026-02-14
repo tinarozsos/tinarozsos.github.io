@@ -1,0 +1,20 @@
+---
+title: "New working paper"
+subtitle: "School choice, school switching, and optimal assignment"
+date: 2025-11-30
+date-format: long
+format: html
+---
+
+My first working paper is out!
+The paper *School choice, school switching, and optimal assignment*, coauthored with Hessel Oosterbeek and Bas van der Klaauw, is now available online as a [Tinbergen Institute Discussion Paper](https://tinbergen.nl/discussion-paper/6453/25-066-v-school-choice-school-switching-and-optimal-assignment).
+
+**Abstract**
+
+Close to 20% of secondary school students in Amsterdam - and elsewhere - transfer between secondary schools at some point, even when initially placed in their most-preferred school. School switching is costly for the students involved and disrupts the learning environment of their former and new classmates. Using data from the Amsterdam secondary-school match linked to administrative registers, we show that switching can be predicted by hard-to-rationalize initial school choices. Over 60% of switchers can be correctly identified at the admission stage. Simulations indicate that encouraging predicted switchers to adjust their preference ranking of schools could reduce the switching rate by almost 15%.
+
+**JEL codes:** I21, C35, C53
+
+**Keywords:** secondary education, school choice, school switching, admission lottery
+
+
