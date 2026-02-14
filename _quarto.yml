@@ -45,8 +45,8 @@ website:
         href: https://github.com/tinarozsos
       - icon: linkedin
         href: https://www.linkedin.com/in/tina-rozsos/
-      # - icon: bluesky
-      #   href: https://bsky.app/profile/tinarozsos.bsky.social
+      - icon: bluesky
+        href: https://bsky.app/profile/tinarozsos.bsky.social
       - icon: envelope-heart
         href: mailto:t.d.rozsos@vu.nl
   favicon: assets/img/header/pride93.png
