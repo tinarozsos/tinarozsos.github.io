@@ -2,7 +2,7 @@
 title: "Shiny-based memory game"
 subtitle: "A fun project for a friend's birthday"
 format: html
-image: ../assets/img/taskmaster-game.png
+image: ../assets/img/r/taskmaster-game.png
 ---
 
 One of my friends really likes the UK TV show *Taskmaster*, and so do I.
