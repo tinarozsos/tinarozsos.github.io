@@ -1,6 +1,13 @@
 ---
 title: "R projects"
+listing:
+  contents: r
+  type: grid
+  sort: date desc
+  feed: true
+  fields: [image, title, subtitle]
+  sort-ui: false
+  filter-ui: false
+  image-placeholder: "assets/img/header/blob28noise28n150.png"
 ---
 
-I use R a lot.
-Some examples will follow soon.
